@@ -2,4 +2,7 @@
 
 This is my first repository!
 
-THIS IS MY SECRET!
+What ever, I'm still working on it!
+
+Foo Barr
+Baz
